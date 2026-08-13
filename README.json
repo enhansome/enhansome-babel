@@ -1,0 +1,1012 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "idx",
+          "description": "library + babel plugin for a existential function.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-10T18:53:12Z",
+            "owner": "facebook",
+            "repo": "idx",
+            "stars": 1687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fast-async",
+          "description": "Uses nodent to compile async/await to fast Promise output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-08T10:47:10Z",
+            "owner": "MatAtBread",
+            "repo": "fast-async",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transform-builtin-extend",
+          "description": "Enable extending builtin types like and , which require special treatment and require static analysis to detect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-18T09:08:04Z",
+            "owner": "loganfsmyth",
+            "repo": "babel-plugin-transform-builtin-extend",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "feature-flags",
+          "description": "Helper for managing application feature flags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-28T03:32:32Z",
+            "owner": "ember-cli",
+            "repo": "babel-plugin-feature-flags",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "console-source",
+          "description": "Prepends the file name and line numbers for all console commands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-31T13:10:54Z",
+            "owner": "peteringram0",
+            "repo": "babel-plugin-console-source",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "version",
+          "description": "Babel plugin replace defined identifier to pkg.version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-19T03:14:51Z",
+            "owner": "hustcc",
+            "repo": "babel-plugin-version",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "General Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "module-resolver",
+          "description": "Custom module resolver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-16T16:23:16Z",
+            "owner": "tleunen",
+            "repo": "babel-plugin-module-resolver",
+            "stars": 3476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lodash",
+          "description": "Cherry-picks Lodash modules so you don’t have to.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-06-22T20:08:56Z",
+            "owner": "lodash",
+            "repo": "babel-plugin-lodash",
+            "stars": 1946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "root-import",
+          "description": "Import modules from the root with syntax.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-03T02:37:48Z",
+            "owner": "entwicklerstube",
+            "repo": "babel-plugin-root-import",
+            "stars": 1169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ramda",
+          "description": "Cherry-picks Ramda modules so you don’t have to.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T20:09:52Z",
+            "owner": "megawac",
+            "repo": "babel-plugin-ramda",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpack-alias",
+          "description": "Allows you to use webpack aliases and most of webpack resolve features in Babel.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-04-27T08:42:37Z",
+            "owner": "trayio",
+            "repo": "babel-plugin-webpack-alias",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hash-resolve",
+          "description": "Allows you to use instead of , the number of needed is worked out by the plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-28T22:58:18Z",
+            "owner": "miketamis",
+            "repo": "babel-plugin-hash-resolve",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rewrite-module-path",
+          "description": "Rewrite module resolving path.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-26T21:05:14Z",
+            "owner": "zheeeng",
+            "repo": "babel-plugin-rewrite-module-path",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Module Resolution"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "transform-react-jsx-self",
+          "description": "Adds a property to JSX tags for debugging. Don't use in production. More info",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T10:35:07Z",
+            "owner": "babel",
+            "repo": "babel",
+            "stars": 43978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Optimize",
+          "description": "A Babel preset and plugins for optimizing React code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-06T09:10:01Z",
+            "owner": "jamiebuilds",
+            "repo": "babel-react-optimize",
+            "stars": 1666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Transform",
+          "description": "Instrument React components with custom transforms.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-09-03T17:07:41Z",
+            "owner": "gaearon",
+            "repo": "babel-plugin-react-transform",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transform-react-remove-prop-types",
+          "description": "Removes unnecessary React propTypes from the production build.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-28T23:45:33Z",
+            "owner": "oliviertassinari",
+            "repo": "babel-plugin-transform-react-remove-prop-types",
+            "stars": 889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zacs",
+          "description": "\"styled components\"-ish syntax without performance overhead",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-28T11:06:09Z",
+            "owner": "Nozbe",
+            "repo": "zacs",
+            "stars": 430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-plugin-typescript-to-proptypes",
+          "description": "Generate React PropTypes from TypeScript interfaces or type aliases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-12T17:37:48Z",
+            "owner": "milesj",
+            "repo": "babel-plugin-typescript-to-proptypes",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-docgen",
+          "description": "Makes propTypes comments accessible at runtime for use with documentation generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-26T10:10:52Z",
+            "owner": "storybookjs",
+            "repo": "babel-plugin-react-docgen",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-require",
+          "description": "Adds React import declaration if file contains JSX tags.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-12-06T16:16:04Z",
+            "owner": "vslinko",
+            "repo": "babel-plugin-react-require",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-plugin-react-directive",
+          "description": "Use directive in React, for example, you can use 、 in jsx just as 、 in Vue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-06T01:54:05Z",
+            "owner": "evolify",
+            "repo": "babel-plugin-react-directive",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-plugin-transform-react-class-to-function",
+          "description": "Transforms React class components into a function, if possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-06T18:31:52Z",
+            "owner": "remcohaszing",
+            "repo": "babel-plugin-transform-react-class-to-function",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-hyperscript",
+          "description": "HyperScript syntax for React components without runtime overhead.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-28T04:48:12Z",
+            "owner": "roman01la",
+            "repo": "babel-plugin-react-hyperscript",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-hiccup",
+          "description": "Hiccup syntax for React components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T05:07:02Z",
+            "owner": "callwait",
+            "repo": "babel-plugin-react-hiccup",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-plugin-framer-x",
+          "description": "Removes Framer X markup from your components. Lets you use Framer X components in a Storybook or real application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-08T18:43:34Z",
+            "owner": "eschaefer",
+            "repo": "babel-plugin-framer-x",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-import-extends",
+          "description": "Extends if a class renders a JSX element, also adds statement if it detects a JSX component in the file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-01T02:01:29Z",
+            "owner": "vijaysutrave",
+            "repo": "babel-plugin-react-import-extends",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-plugin-hoist-facc",
+          "description": "Transforms function as child components to hoist the children function to highest scope.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-06T18:45:24Z",
+            "owner": "strayiker",
+            "repo": "babel-plugin-hoist-facc",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "React"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-intl",
+          "description": "Extracts string messages for translation from modules that use React Intl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:57:26Z",
+            "owner": "formatjs",
+            "repo": "formatjs",
+            "stars": 14742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "localize",
+          "description": "Modify static jsx text and string attributes with function call. 🔧",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-21T03:24:51Z",
+            "owner": "amerani",
+            "repo": "babel-plugin-localize",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Internationalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flow-runtime",
+          "description": "Turns Flow annotations into runtime checks. Part of Flow-Runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T17:14:46Z",
+            "owner": "gajus",
+            "repo": "flow-runtime",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tcomb",
+          "description": "Turns Flow annotations into typechecks with tcomb.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-11-04T07:15:04Z",
+            "owner": "gcanti",
+            "repo": "babel-plugin-tcomb",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "runtyper",
+          "description": "Detects type-mismatch operations in runtime without annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T17:44:09Z",
+            "owner": "vitalets",
+            "repo": "babel-plugin-runtyper",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsdoc-to-assert",
+          "description": "Turns JSDoc into runtime checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-06T19:14:21Z",
+            "owner": "azu",
+            "repo": "babel-plugin-jsdoc-to-assert",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Types"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rewire",
+          "description": "Adds the ability to rewire module dependencies. This enables to mock modules for testing purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-17T19:58:03Z",
+            "owner": "speedskater",
+            "repo": "babel-plugin-rewire",
+            "stars": 837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "istanbul",
+          "description": "Instruments your code with Istanbul coverage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T13:24:09Z",
+            "owner": "istanbuljs",
+            "repo": "babel-plugin-istanbul",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "espower",
+          "description": "Annotates call sites for descriptive messages when using power-assert.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T15:16:04Z",
+            "owner": "power-assert-js",
+            "repo": "babel-plugin-espower",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "preval",
+          "description": "Pre-evaluate code at build-time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-02T22:07:10Z",
+            "owner": "kentcdodds",
+            "repo": "babel-plugin-preval",
+            "stars": 1363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faster.js",
+          "description": "Transforms native methods into faster equivalents. 🔧",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T18:29:36Z",
+            "owner": "vzhou842",
+            "repo": "faster.js",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "closure-elimination",
+          "description": "Transforms closures into separate functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-11T03:00:21Z",
+            "owner": "codemix",
+            "repo": "babel-plugin-closure-elimination",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "object-to-json-parse",
+          "description": "Converts from object literal to .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-01T08:03:39Z",
+            "owner": "nissy-dev",
+            "repo": "babel-plugin-object-to-json-parse",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "loop-optimizer",
+          "description": "Transforms and calls to for loops. 🔧",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-19T06:03:08Z",
+            "owner": "vihanb",
+            "repo": "babel-plugin-loop-optimizer",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "groundskeeper-willie",
+          "description": "Removes debugger and console calls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-11T17:26:59Z",
+            "owner": "betaorbust",
+            "repo": "babel-plugin-groundskeeper-willie",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transform-named-imports",
+          "description": "Avoid including code that you don't need from modules you're importing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T18:28:52Z",
+            "owner": "SectorLabs",
+            "repo": "babel-plugin-transform-named-imports",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloudinary",
+          "description": "Compile cloudinary URLs at build time.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-02-03T10:46:41Z",
+            "owner": "trivago",
+            "repo": "babel-plugin-cloudinary",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "optimize-i18n",
+          "description": "Optimizing i18n bundle file by shorten the locale key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-01T08:32:49Z",
+            "owner": "hustcc",
+            "repo": "babel-plugin-optimize-i18n",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Optimization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "trace",
+          "description": "Syntax shortcuts for console logging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-30T10:43:34Z",
+            "owner": "codemix",
+            "repo": "babel-plugin-trace",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "function-composition",
+          "description": "Function piping and composition via operator, for example, .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-10T11:44:53Z",
+            "owner": "haskellcamargo",
+            "repo": "babel-plugin-function-composition",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meaningful-logs",
+          "description": "Adds file name and line number of caller to calls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T21:45:03Z",
+            "owner": "furstenheim",
+            "repo": "babel-plugin-meaningful-logs",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auto-await",
+          "description": "Automatically every in functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-25T18:21:53Z",
+            "owner": "ziolko",
+            "repo": "babel-plugin-auto-await",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "implicit-return",
+          "description": "Transforms last statement in a function block to a return statement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-08T11:13:31Z",
+            "owner": "miraks",
+            "repo": "babel-plugin-implicit-return",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "implicit-function",
+          "description": "Implicit functions via operator, transforming, for example, in .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-04T03:43:48Z",
+            "owner": "haskellcamargo",
+            "repo": "babel-plugin-implicit-function",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "offside-js",
+          "description": "Coffeescript-like indented block syntax hack. 🔧🚧",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-10-30T14:54:57Z",
+            "owner": "jsy-lang",
+            "repo": "babel-plugin-offside-js",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transform-iota",
+          "description": "Golang-style . 🔧",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-02-19T02:17:53Z",
+            "owner": "passcod",
+            "repo": "babel-plugin-transform-iota",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Syntax Sugar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "babel-macros",
+          "description": "Enables zero-config, importable babel plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-30T11:04:41Z",
+            "owner": "kentcdodds",
+            "repo": "babel-plugin-macros",
+            "stars": 2633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "contracts",
+          "description": "Design by Contract; Includes preconditions, postconditions, and invariant conditions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-29T09:57:25Z",
+            "owner": "codemix",
+            "repo": "babel-plugin-contracts",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macros",
+          "description": "Hygienic, non-syntactic macros. 🔧",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-03-12T17:39:57Z",
+            "owner": "codemix",
+            "repo": "babel-plugin-macros",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "partial-application",
+          "description": "Scala/Kotlin-esque partial application syntax for JavaScript (using ). 🔧",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-12-12T17:18:19Z",
+            "owner": "haltcase",
+            "repo": "babel-plugin-partial-application",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transform-scala-lambda",
+          "description": "Enable Scala-style lambdas (using ). 🔧",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-21T23:16:08Z",
+            "owner": "xtuc",
+            "repo": "babel-plugin-transform-scala-lambda",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "holes",
+          "description": "Holes (like Scala and Elixir) to help point-free programming, using operators as functions. 🔧",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-03T18:12:37Z",
+            "owner": "rung-tools",
+            "repo": "babel-plugin-holes",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "overload",
+          "description": "Allow overloading default operators like or for specific classes. 🔧🚧",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-21T11:32:42Z",
+            "owner": "foxbenjaminfox",
+            "repo": "babel-plugin-overload",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Alternative Programming Paradigms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "env",
+          "description": "The recommended preset which includes transforms based on the specified environment (browsers, node, electron, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T10:35:07Z",
+            "owner": "babel",
+            "repo": "babel",
+            "stars": 43978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Optimize",
+          "description": "A Babel preset and plugins for optimizing React code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-06T09:10:01Z",
+            "owner": "jamiebuilds",
+            "repo": "babel-react-optimize",
+            "stars": 1666
+          }
+        }
+      ],
+      "title": "Presets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "babel-watch",
+          "description": "Reloads a node app on file changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-12T15:46:44Z",
+            "owner": "kmagiera",
+            "repo": "babel-watch",
+            "stars": 525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel-time-travel",
+          "description": "Time travel through babel transformations one by one.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-07-26T16:08:32Z",
+            "owner": "babel",
+            "repo": "babel-time-travel",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-ast",
+          "description": "Render babel ASTs with react",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-12T10:33:48Z",
+            "owner": "clayrisser",
+            "repo": "react-ast",
+            "stars": 338
+          }
+        }
+      ],
+      "title": "Tooling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:06:27.740Z",
+    "original_repository": "babel/awesome-babel",
+    "original_repository_sha": "e9f70a5bd863d47a98834dd8ef19028979725ca5",
+    "enhanced_repository": "enhansome/enhansome-babel",
+    "enhanced_repository_description": null,
+    "title": "Awesome Babel with stars"
+  }
+}
