@@ -213,7 +213,7 @@
             "last_commit": "2026-08-14T00:16:12Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43980
+            "stars": 43982
           }
         },
         {
@@ -426,7 +426,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T15:42:54Z",
+            "last_commit": "2026-08-14T23:16:34Z",
             "owner": "formatjs",
             "repo": "formatjs",
             "stars": 14742
@@ -927,7 +927,7 @@
             "last_commit": "2026-08-14T00:16:12Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43980
+            "stars": 43982
           }
         },
         {
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:03:03.658Z",
+    "last_updated": "2026-08-15T07:17:02.821Z",
     "original_repository": "babel/awesome-babel",
     "original_repository_sha": "e9f70a5bd863d47a98834dd8ef19028979725ca5",
     "enhanced_repository": "enhansome/enhansome-babel",
