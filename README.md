@@ -29,7 +29,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Module Resolution
 
-* [module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) ⭐ 3,476 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-16 - Custom module resolver.
+* [module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) ⭐ 3,477 | 🐛 109 | 🌐 JavaScript | 📅 2026-03-16 - Custom module resolver.
 * [lodash](https://github.com/lodash/babel-plugin-lodash) ⚠️ Archived - Cherry-picks Lodash modules so you don’t have to.
 * [root-import](https://github.com/entwicklerstube/babel-plugin-root-import) ⭐ 1,169 | 🐛 21 | 🌐 JavaScript | 📅 2022-12-03 - Import modules from the root with `require('~/foo')` syntax.
 * [ramda](https://github.com/megawac/babel-plugin-ramda) ⭐ 312 | 🐛 16 | 🌐 JavaScript | 📅 2023-03-01 - Cherry-picks Ramda modules so you don’t have to.
@@ -39,7 +39,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### React
 
-* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 43,985 | 🐛 769 | 🌐 TypeScript | 📅 2026-08-16 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 43,985 | 🐛 769 | 🌐 TypeScript | 📅 2026-08-16
+* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 43,983 | 🐛 770 | 🌐 TypeScript | 📅 2026-08-16 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 43,983 | 🐛 770 | 🌐 TypeScript | 📅 2026-08-16
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,666 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React Transform](https://github.com/gaearon/babel-plugin-react-transform) ⚠️ Archived - Instrument React components with custom transforms.
 * [transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) ⭐ 889 | 🐛 17 | 🌐 JavaScript | 📅 2021-11-28 - Removes unnecessary React propTypes from the production build.
@@ -59,7 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Internationalization
 
-* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,743 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-17 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,743 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-17.
+* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18.
 * [localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-21 - Modify static jsx text and string attributes with function call. 🔧
 * [c-3po](https://c-3po.js.org) - Localization tool based on es6 template literals.
 
@@ -111,7 +111,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
-* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 43,985 | 🐛 769 | 🌐 TypeScript | 📅 2026-08-16 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
+* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 43,983 | 🐛 770 | 🌐 TypeScript | 📅 2026-08-16 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,666 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
 
@@ -127,4 +127,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
