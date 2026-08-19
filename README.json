@@ -226,7 +226,7 @@
                 "last_commit": "2026-08-16T08:21:06Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43985
+                "stars": 43987
               }
             },
             {
@@ -999,7 +999,7 @@
             "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43987
           }
         },
         {
@@ -1073,8 +1073,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:25:37.084Z",
+    "last_updated": "2026-08-19T12:20:07.458Z",
     "original_repository": "babel/awesome-babel",
+    "original_repository_id": 56436652,
     "original_repository_sha": "e9f70a5bd863d47a98834dd8ef19028979725ca5",
     "enhanced_repository": "enhansome/enhansome-babel",
     "enhanced_repository_description": null,
