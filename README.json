@@ -114,7 +114,7 @@
                 "last_commit": "2026-03-16T16:23:16Z",
                 "owner": "tleunen",
                 "repo": "babel-plugin-module-resolver",
-                "stars": 3477
+                "stars": 3476
               }
             },
             {
@@ -455,10 +455,10 @@
                 "archived": false,
                 "id": 19117456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T14:18:42Z",
+                "last_commit": "2026-08-20T01:03:32Z",
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14744
+                "stars": 14741
               }
             },
             {
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:20:07.458Z",
+    "last_updated": "2026-08-20T07:28:01.833Z",
     "original_repository": "babel/awesome-babel",
     "original_repository_id": 56436652,
     "original_repository_sha": "e9f70a5bd863d47a98834dd8ef19028979725ca5",
