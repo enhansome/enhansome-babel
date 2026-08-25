@@ -59,7 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Internationalization
 
-* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-23 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-23.
+* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,743 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-24 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,743 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-24.
 * [localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-21 - Modify static jsx text and string attributes with function call. 🔧
 * [c-3po](https://c-3po.js.org) - Localization tool based on es6 template literals.
 
@@ -127,4 +127,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
