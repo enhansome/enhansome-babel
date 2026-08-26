@@ -223,10 +223,10 @@
                 "archived": false,
                 "id": 24560307,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:27:11Z",
+                "last_commit": "2026-08-25T12:57:57Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43989
+                "stars": 43986
               }
             },
             {
@@ -455,7 +455,7 @@
                 "archived": false,
                 "id": 19117456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:41:27Z",
+                "last_commit": "2026-08-26T01:40:18Z",
                 "owner": "formatjs",
                 "repo": "formatjs",
                 "stars": 14743
@@ -996,10 +996,10 @@
             "archived": false,
             "id": 24560307,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T14:27:11Z",
+            "last_commit": "2026-08-25T12:57:57Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43989
+            "stars": 43986
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "last_commit": "2024-01-12T10:33:48Z",
             "owner": "clayrisser",
             "repo": "react-ast",
-            "stars": 338
+            "stars": 337
           }
         }
       ],
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:31:25.786Z",
+    "last_updated": "2026-08-26T07:33:10.459Z",
     "original_repository": "babel/awesome-babel",
     "original_repository_id": 56436652,
     "original_repository_sha": "e9f70a5bd863d47a98834dd8ef19028979725ca5",
