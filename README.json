@@ -226,7 +226,7 @@
                 "last_commit": "2026-08-25T12:57:57Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43988
+                "stars": 43987
               }
             },
             {
@@ -577,7 +577,7 @@
                 "last_commit": "2026-07-20T13:24:09Z",
                 "owner": "istanbuljs",
                 "repo": "babel-plugin-istanbul",
-                "stars": 657
+                "stars": 658
               }
             },
             {
@@ -999,7 +999,7 @@
             "last_commit": "2026-08-25T12:57:57Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43988
+            "stars": 43987
           }
         },
         {
@@ -1073,7 +1073,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:26:31.530Z",
+    "last_updated": "2026-08-27T17:54:37.256Z",
     "original_repository_info": {
       "archived": false,
       "id": 56436652,
