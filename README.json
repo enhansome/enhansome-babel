@@ -17,7 +17,7 @@
                 "last_commit": "2024-01-10T18:53:12Z",
                 "owner": "facebook",
                 "repo": "idx",
-                "stars": 1687
+                "stars": 1688
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-08-25T12:57:57Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43986
+                "stars": 43988
               }
             },
             {
@@ -455,10 +455,10 @@
                 "archived": false,
                 "id": 19117456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T01:40:18Z",
+                "last_commit": "2026-08-27T07:16:37Z",
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14743
+                "stars": 14744
               }
             },
             {
@@ -999,7 +999,7 @@
             "last_commit": "2026-08-25T12:57:57Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43986
+            "stars": 43988
           }
         },
         {
@@ -1073,9 +1073,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:33:10.459Z",
-    "original_repository": "babel/awesome-babel",
-    "original_repository_id": 56436652,
+    "last_updated": "2026-08-27T11:26:31.530Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 56436652,
+      "language": null,
+      "last_commit": "2024-08-19T18:01:35Z",
+      "owner": "babel",
+      "repo": "awesome-babel",
+      "stars": 877
+    },
     "original_repository_sha": "e9f70a5bd863d47a98834dd8ef19028979725ca5",
     "enhanced_repository": "enhansome/enhansome-babel",
     "enhanced_repository_description": null,
