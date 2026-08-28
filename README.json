@@ -18,7 +18,8 @@
                 "owner": "facebook",
                 "repo": "idx",
                 "stars": 1688
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "MatAtBread",
                 "repo": "fast-async",
                 "stars": 600
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "loganfsmyth",
                 "repo": "babel-plugin-transform-builtin-extend",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "ember-cli",
                 "repo": "babel-plugin-feature-flags",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "peteringram0",
                 "repo": "babel-plugin-console-source",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "hustcc",
                 "repo": "babel-plugin-version",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             }
           ],
           "description": null,
@@ -114,8 +120,9 @@
                 "last_commit": "2026-03-16T16:23:16Z",
                 "owner": "tleunen",
                 "repo": "babel-plugin-module-resolver",
-                "stars": 3476
-              }
+                "stars": 3475
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "lodash",
                 "repo": "babel-plugin-lodash",
                 "stars": 1946
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "entwicklerstube",
                 "repo": "babel-plugin-root-import",
                 "stars": 1169
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "megawac",
                 "repo": "babel-plugin-ramda",
                 "stars": 312
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "trayio",
                 "repo": "babel-plugin-webpack-alias",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "miketamis",
                 "repo": "babel-plugin-hash-resolve",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "zheeeng",
                 "repo": "babel-plugin-rewrite-module-path",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             }
           ],
           "description": null,
@@ -223,11 +236,12 @@
                 "archived": false,
                 "id": 24560307,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T12:57:57Z",
+                "last_commit": "2026-08-28T02:39:56Z",
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43987
-              }
+                "stars": 43985
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "jamiebuilds",
                 "repo": "babel-react-optimize",
                 "stars": 1666
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "gaearon",
                 "repo": "babel-plugin-react-transform",
                 "stars": 1071
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "oliviertassinari",
                 "repo": "babel-plugin-transform-react-remove-prop-types",
                 "stars": 889
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "Nozbe",
                 "repo": "zacs",
                 "stars": 430
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "milesj",
                 "repo": "babel-plugin-typescript-to-proptypes",
                 "stars": 364
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "storybookjs",
                 "repo": "babel-plugin-react-docgen",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "vslinko",
                 "repo": "babel-plugin-react-require",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "evolify",
                 "repo": "babel-plugin-react-directive",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "remcohaszing",
                 "repo": "babel-plugin-transform-react-class-to-function",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -377,7 +400,8 @@
                 "owner": "roman01la",
                 "repo": "babel-plugin-react-hyperscript",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -392,7 +416,8 @@
                 "owner": "callwait",
                 "repo": "babel-plugin-react-hiccup",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -407,7 +432,8 @@
                 "owner": "eschaefer",
                 "repo": "babel-plugin-framer-x",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -422,7 +448,8 @@
                 "owner": "vijaysutrave",
                 "repo": "babel-plugin-react-import-extends",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -437,7 +464,8 @@
                 "owner": "strayiker",
                 "repo": "babel-plugin-hoist-facc",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             }
           ],
           "description": null,
@@ -455,11 +483,12 @@
                 "archived": false,
                 "id": 19117456,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T07:16:37Z",
+                "last_commit": "2026-08-28T18:29:57Z",
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14744
-              }
+                "stars": 14745
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -474,7 +503,8 @@
                 "owner": "amerani",
                 "repo": "babel-plugin-localize",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             }
           ],
           "description": null,
@@ -496,7 +526,8 @@
                 "owner": "gajus",
                 "repo": "flow-runtime",
                 "stars": 797
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -511,7 +542,8 @@
                 "owner": "gcanti",
                 "repo": "babel-plugin-tcomb",
                 "stars": 478
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -526,7 +558,8 @@
                 "owner": "vitalets",
                 "repo": "babel-plugin-runtyper",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -541,7 +574,8 @@
                 "owner": "azu",
                 "repo": "babel-plugin-jsdoc-to-assert",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             }
           ],
           "description": null,
@@ -563,7 +597,8 @@
                 "owner": "speedskater",
                 "repo": "babel-plugin-rewire",
                 "stars": 837
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -577,8 +612,9 @@
                 "last_commit": "2026-07-20T13:24:09Z",
                 "owner": "istanbuljs",
                 "repo": "babel-plugin-istanbul",
-                "stars": 658
-              }
+                "stars": 659
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -593,7 +629,8 @@
                 "owner": "power-assert-js",
                 "repo": "babel-plugin-espower",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             }
           ],
           "description": null,
@@ -615,7 +652,8 @@
                 "owner": "kentcdodds",
                 "repo": "babel-plugin-preval",
                 "stars": 1363
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -630,7 +668,8 @@
                 "owner": "vzhou842",
                 "repo": "faster.js",
                 "stars": 437
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -645,7 +684,8 @@
                 "owner": "codemix",
                 "repo": "babel-plugin-closure-elimination",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -660,7 +700,8 @@
                 "owner": "nissy-dev",
                 "repo": "babel-plugin-object-to-json-parse",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -675,7 +716,8 @@
                 "owner": "vihanb",
                 "repo": "babel-plugin-loop-optimizer",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -690,7 +732,8 @@
                 "owner": "betaorbust",
                 "repo": "babel-plugin-groundskeeper-willie",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -705,7 +748,8 @@
                 "owner": "SectorLabs",
                 "repo": "babel-plugin-transform-named-imports",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -720,7 +764,8 @@
                 "owner": "trivago",
                 "repo": "babel-plugin-cloudinary",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -735,7 +780,8 @@
                 "owner": "hustcc",
                 "repo": "babel-plugin-optimize-i18n",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             }
           ],
           "description": null,
@@ -757,7 +803,8 @@
                 "owner": "codemix",
                 "repo": "babel-plugin-trace",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -772,7 +819,8 @@
                 "owner": "haskellcamargo",
                 "repo": "babel-plugin-function-composition",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -787,7 +835,8 @@
                 "owner": "furstenheim",
                 "repo": "babel-plugin-meaningful-logs",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -802,7 +851,8 @@
                 "owner": "ziolko",
                 "repo": "babel-plugin-auto-await",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -817,7 +867,8 @@
                 "owner": "miraks",
                 "repo": "babel-plugin-implicit-return",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -832,7 +883,8 @@
                 "owner": "haskellcamargo",
                 "repo": "babel-plugin-implicit-function",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -847,7 +899,8 @@
                 "owner": "jsy-lang",
                 "repo": "babel-plugin-offside-js",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -862,7 +915,8 @@
                 "owner": "passcod",
                 "repo": "babel-plugin-transform-iota",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             }
           ],
           "description": null,
@@ -884,7 +938,8 @@
                 "owner": "kentcdodds",
                 "repo": "babel-plugin-macros",
                 "stars": 2633
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -899,7 +954,8 @@
                 "owner": "codemix",
                 "repo": "babel-plugin-contracts",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -914,7 +970,8 @@
                 "owner": "codemix",
                 "repo": "babel-plugin-macros",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -929,7 +986,8 @@
                 "owner": "haltcase",
                 "repo": "babel-plugin-partial-application",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -944,7 +1002,8 @@
                 "owner": "xtuc",
                 "repo": "babel-plugin-transform-scala-lambda",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -959,7 +1018,8 @@
                 "owner": "rung-tools",
                 "repo": "babel-plugin-holes",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1034,8 @@
                 "owner": "foxbenjaminfox",
                 "repo": "babel-plugin-overload",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T19:01:36.091Z"
             }
           ],
           "description": null,
@@ -996,11 +1057,12 @@
             "archived": false,
             "id": 24560307,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T12:57:57Z",
+            "last_commit": "2026-08-28T02:39:56Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43987
-          }
+            "stars": 43985
+          },
+          "first_seen": "2026-08-28T19:01:36.091Z"
         },
         {
           "node_type": "item",
@@ -1015,7 +1077,8 @@
             "owner": "jamiebuilds",
             "repo": "babel-react-optimize",
             "stars": 1666
-          }
+          },
+          "first_seen": "2026-08-28T19:01:36.091Z"
         }
       ],
       "title": "Presets"
@@ -1036,7 +1099,8 @@
             "owner": "kmagiera",
             "repo": "babel-watch",
             "stars": 525
-          }
+          },
+          "first_seen": "2026-08-28T19:01:36.091Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1115,8 @@
             "owner": "babel",
             "repo": "babel-time-travel",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T19:01:36.091Z"
         },
         {
           "node_type": "item",
@@ -1066,14 +1131,15 @@
             "owner": "clayrisser",
             "repo": "react-ast",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T19:01:36.091Z"
         }
       ],
       "title": "Tooling"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:54:37.256Z",
+    "last_updated": "2026-08-28T19:01:36.091Z",
     "original_repository_info": {
       "archived": false,
       "id": 56436652,
