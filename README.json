@@ -700,7 +700,7 @@
                 "open_issues": 12,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14745,
+                "stars": 14744,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:25.892Z",
+    "last_updated": "2026-08-29T12:50:09.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
