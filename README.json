@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T01:10:04Z",
+                "last_commit": "2026-08-30T18:06:50Z",
                 "open_issues": 777,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43985,
+                "stars": 43990,
                 "topics": [
                   "ast",
                   "babel",
@@ -365,7 +365,7 @@
                 "open_issues": 20,
                 "owner": "jamiebuilds",
                 "repo": "babel-react-optimize",
-                "stars": 1666,
+                "stars": 1665,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -696,8 +696,8 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-08-30T12:14:30Z",
-                "open_issues": 12,
+                "last_commit": "2026-08-31T14:00:51Z",
+                "open_issues": 3,
                 "owner": "formatjs",
                 "repo": "formatjs",
                 "stars": 14744,
@@ -890,7 +890,7 @@
                 "open_issues": 69,
                 "owner": "istanbuljs",
                 "repo": "babel-plugin-istanbul",
-                "stars": 659,
+                "stars": 660,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T01:10:04Z",
+            "last_commit": "2026-08-30T18:06:50Z",
             "open_issues": 777,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985,
+            "stars": 43990,
             "topics": [
               "ast",
               "babel",
@@ -1543,7 +1543,7 @@
             "open_issues": 20,
             "owner": "jamiebuilds",
             "repo": "babel-react-optimize",
-            "stars": 1666,
+            "stars": 1665,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T12:15:41.937Z",
+    "last_updated": "2026-08-31T14:27:00.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
