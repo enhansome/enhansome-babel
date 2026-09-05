@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "facebook",
                 "repo": "idx",
-                "stars": 1688,
+                "stars": 1687,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -42,7 +42,7 @@
                 "open_issues": 6,
                 "owner": "MatAtBread",
                 "repo": "fast-async",
-                "stars": 600,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -333,10 +333,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T00:12:15Z",
-                "open_issues": 777,
+                "open_issues": 780,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43988,
+                "stars": 43990,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,11 +696,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-04T10:50:59Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-05T08:51:34Z",
+                "open_issues": 6,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14747,
+                "stars": 14748,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -1511,10 +1511,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-04T00:12:15Z",
-            "open_issues": 777,
+            "open_issues": 780,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43988,
+            "stars": 43990,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:45:16.116Z",
+    "last_updated": "2026-09-05T10:56:13.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
