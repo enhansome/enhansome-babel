@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T00:12:15Z",
+                "last_commit": "2026-09-07T02:05:25Z",
                 "open_issues": 780,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43993,
+                "stars": 43996,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,11 +696,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-06T11:20:39Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-07T12:13:33Z",
+                "open_issues": 13,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14748,
+                "stars": 14749,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -988,7 +988,7 @@
                 "open_issues": 4,
                 "owner": "codemix",
                 "repo": "babel-plugin-closure-elimination",
-                "stars": 366,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:12:15Z",
+            "last_commit": "2026-09-07T02:05:25Z",
             "open_issues": 780,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43993,
+            "stars": 43996,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:22:17.913Z",
+    "last_updated": "2026-09-07T13:02:33.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",

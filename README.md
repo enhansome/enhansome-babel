@@ -39,7 +39,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### React
 
-* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 43,993 | 🐛 780 | 🌐 TypeScript | 📅 2026-09-04 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 43,993 | 🐛 780 | 🌐 TypeScript | 📅 2026-09-04
+* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 43,996 | 🐛 780 | 🌐 TypeScript | 📅 2026-09-07 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 43,996 | 🐛 780 | 🌐 TypeScript | 📅 2026-09-07
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,665 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React Transform](https://github.com/gaearon/babel-plugin-react-transform) ⚠️ Archived - Instrument React components with custom transforms.
 * [transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) ⭐ 889 | 🐛 17 | 🌐 JavaScript | 📅 2021-11-28 - Removes unnecessary React propTypes from the production build.
@@ -59,7 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Internationalization
 
-* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,748 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-06 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,748 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-06.
+* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,749 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-07 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,749 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-07.
 * [localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-21 - Modify static jsx text and string attributes with function call. 🔧
 * [c-3po](https://c-3po.js.org) - Localization tool based on es6 template literals.
 
@@ -80,7 +80,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 * [preval](https://github.com/kentcdodds/babel-plugin-preval) ⭐ 1,363 | 🐛 11 | 🌐 TypeScript | 📅 2022-02-02 - Pre-evaluate code at build-time.
 * [faster.js](https://github.com/vzhou842/faster.js) ⭐ 437 | 🐛 6 | 🌐 JavaScript | 📅 2022-12-30 - Transforms native `Array` methods into faster equivalents. 🔧
-* [closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination) ⭐ 366 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-11 - Transforms closures into separate functions.
+* [closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination) ⭐ 365 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-11 - Transforms closures into separate functions.
 * [object-to-json-parse](https://github.com/nd-02110114/babel-plugin-object-to-json-parse) ⚠️ Archived - Converts from object literal to `JSON.parse`.
 * [loop-optimizer](https://github.com/vihanb/babel-plugin-loop-optimizer) ⭐ 74 | 🐛 9 | 🌐 JavaScript | 📅 2020-07-19 - Transforms `.forEach` and `.map` calls to for loops. 🔧
 * [groundskeeper-willie](https://github.com/betaorbust/babel-plugin-groundskeeper-willie) ⭐ 62 | 🐛 6 | 🌐 TypeScript | 📅 2022-11-11 - Removes debugger and console calls.
@@ -111,7 +111,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
-* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 43,993 | 🐛 780 | 🌐 TypeScript | 📅 2026-09-04 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
+* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 43,996 | 🐛 780 | 🌐 TypeScript | 📅 2026-09-07 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,665 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
 
@@ -127,4 +127,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
