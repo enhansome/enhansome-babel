@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T02:05:25Z",
-                "open_issues": 780,
+                "last_commit": "2026-09-07T18:25:44Z",
+                "open_issues": 781,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 43996,
+                "stars": 43995,
                 "topics": [
                   "ast",
                   "babel",
@@ -407,7 +407,7 @@
                 "open_issues": 17,
                 "owner": "oliviertassinari",
                 "repo": "babel-plugin-transform-react-remove-prop-types",
-                "stars": 889,
+                "stars": 888,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -869,7 +869,7 @@
                 "open_issues": 58,
                 "owner": "speedskater",
                 "repo": "babel-plugin-rewire",
-                "stars": 837,
+                "stars": 835,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1379,7 +1379,7 @@
                 "open_issues": 0,
                 "owner": "codemix",
                 "repo": "babel-plugin-macros",
-                "stars": 261,
+                "stars": 260,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T02:05:25Z",
-            "open_issues": 780,
+            "last_commit": "2026-09-07T18:25:44Z",
+            "open_issues": 781,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43996,
+            "stars": 43995,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:02:33.126Z",
+    "last_updated": "2026-09-08T11:45:42.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
