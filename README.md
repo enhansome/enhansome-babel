@@ -39,12 +39,12 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### React
 
-* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,000 | 🐛 771 | 🌐 TypeScript | 📅 2026-09-15 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,000 | 🐛 771 | 🌐 TypeScript | 📅 2026-09-15
+* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,000 | 🐛 771 | 🌐 TypeScript | 📅 2026-09-17 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,000 | 🐛 771 | 🌐 TypeScript | 📅 2026-09-17
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,664 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React Transform](https://github.com/gaearon/babel-plugin-react-transform) ⚠️ Archived - Instrument React components with custom transforms.
 * [transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) ⭐ 887 | 🐛 17 | 🌐 JavaScript | 📅 2021-11-28 - Removes unnecessary React propTypes from the production build.
 * [zacs](https://github.com/nozbe/zacs) ⭐ 430 | 🐛 1 | 🌐 JavaScript | 📅 2023-08-28 - "styled components"-ish syntax without performance overhead
-* [babel-plugin-typescript-to-proptypes](https://github.com/milesj/babel-plugin-typescript-to-proptypes) ⭐ 364 | 🐛 12 | 🌐 TypeScript | 📅 2023-04-12 - Generate React PropTypes from TypeScript interfaces or type aliases.
+* [babel-plugin-typescript-to-proptypes](https://github.com/milesj/babel-plugin-typescript-to-proptypes) ⭐ 364 | 🐛 11 | 🌐 TypeScript | 📅 2023-04-12 - Generate React PropTypes from TypeScript interfaces or type aliases.
 * [react-docgen](https://github.com/kadirahq/babel-plugin-react-docgen) ⭐ 163 | 🐛 7 | 🌐 JavaScript | 📅 2024-11-26 - Makes propTypes comments accessible at runtime for use with documentation generators.
 * [react-require](https://github.com/vslinko/babel-plugin-react-require) ⚠️ Archived - Adds React import declaration if file contains JSX tags.
 * [babel-plugin-react-directive](https://github.com/evolify/babel-plugin-react-directive) ⭐ 30 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-06 - Use directive in React, for example, you can use `r-if`、`r-for` in jsx just as `v-if`、`v-for` in Vue.
@@ -59,7 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Internationalization
 
-* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,745 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-16 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,745 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-16.
+* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-17 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-17.
 * [localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-21 - Modify static jsx text and string attributes with function call. 🔧
 * [c-3po](https://c-3po.js.org) - Localization tool based on es6 template literals.
 
@@ -111,7 +111,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
-* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,000 | 🐛 771 | 🌐 TypeScript | 📅 2026-09-15 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
+* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,000 | 🐛 771 | 🌐 TypeScript | 📅 2026-09-17 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,664 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
 
@@ -127,4 +127,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
