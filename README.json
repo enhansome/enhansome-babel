@@ -336,7 +336,7 @@
                 "open_issues": 766,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44004,
+                "stars": 44006,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,11 +696,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-19T10:56:44Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-19T20:57:50Z",
+                "open_issues": 2,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14745,
+                "stars": 14746,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -1514,7 +1514,7 @@
             "open_issues": 766,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44004,
+            "stars": 44006,
             "topics": [
               "ast",
               "babel",
@@ -1591,7 +1591,7 @@
             "open_issues": 0,
             "owner": "babel",
             "repo": "babel-time-travel",
-            "stars": 341,
+            "stars": 340,
             "topics": [
               "babel",
               "babili",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:35:19.285Z",
+    "last_updated": "2026-09-20T11:50:56.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
@@ -1649,7 +1649,7 @@
       "open_issues": 3,
       "owner": "babel",
       "repo": "awesome-babel",
-      "stars": 877,
+      "stars": 876,
       "topics": [
         "awesome",
         "awesome-list",
