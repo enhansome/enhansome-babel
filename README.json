@@ -365,7 +365,7 @@
                 "open_issues": 20,
                 "owner": "jamiebuilds",
                 "repo": "babel-react-optimize",
-                "stars": 1664,
+                "stars": 1663,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -696,11 +696,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-22T09:56:56Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-23T10:05:47Z",
+                "open_issues": 5,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14745,
+                "stars": 14744,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -1543,7 +1543,7 @@
             "open_issues": 20,
             "owner": "jamiebuilds",
             "repo": "babel-react-optimize",
-            "stars": 1664,
+            "stars": 1663,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T12:05:09.792Z",
+    "last_updated": "2026-09-23T12:15:13.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
