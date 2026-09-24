@@ -191,7 +191,7 @@
                 "open_issues": 25,
                 "owner": "lodash",
                 "repo": "babel-plugin-lodash",
-                "stars": 1946,
+                "stars": 1945,
                 "topics": [
                   "babel",
                   "lodash"
@@ -333,10 +333,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T22:40:22Z",
-                "open_issues": 767,
+                "open_issues": 768,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44017,
+                "stars": 44012,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,8 +696,8 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-23T10:05:47Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-24T03:06:31Z",
+                "open_issues": 9,
                 "owner": "formatjs",
                 "repo": "formatjs",
                 "stars": 14744,
@@ -887,7 +887,7 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-07-20T13:24:09Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "istanbuljs",
                 "repo": "babel-plugin-istanbul",
                 "stars": 659,
@@ -1511,10 +1511,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-18T22:40:22Z",
-            "open_issues": 767,
+            "open_issues": 768,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44017,
+            "stars": 44012,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:15:13.273Z",
+    "last_updated": "2026-09-24T12:15:43.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
