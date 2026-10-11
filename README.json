@@ -333,10 +333,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-09T05:14:53Z",
-                "open_issues": 784,
+                "open_issues": 785,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44137,
+                "stars": 44135,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,11 +696,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-10T10:06:49Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-11T09:27:15Z",
+                "open_issues": 1,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14741,
+                "stars": 14740,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -866,7 +866,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2023-08-17T19:58:03Z",
-                "open_issues": 58,
+                "open_issues": 57,
                 "owner": "speedskater",
                 "repo": "babel-plugin-rewire",
                 "stars": 834,
@@ -1511,10 +1511,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-09T05:14:53Z",
-            "open_issues": 784,
+            "open_issues": 785,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44137,
+            "stars": 44135,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:04:41.782Z",
+    "last_updated": "2026-10-11T13:33:36.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
