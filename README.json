@@ -166,7 +166,7 @@
                 "open_issues": 109,
                 "owner": "tleunen",
                 "repo": "babel-plugin-module-resolver",
-                "stars": 3469,
+                "stars": 3468,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -215,7 +215,7 @@
                 "open_issues": 21,
                 "owner": "entwicklerstube",
                 "repo": "babel-plugin-root-import",
-                "stars": 1169,
+                "stars": 1168,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T05:14:53Z",
-                "open_issues": 785,
+                "last_commit": "2026-10-12T07:07:52Z",
+                "open_issues": 783,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44135,
+                "stars": 44132,
                 "topics": [
                   "ast",
                   "babel",
@@ -407,7 +407,7 @@
                 "open_issues": 17,
                 "owner": "oliviertassinari",
                 "repo": "babel-plugin-transform-react-remove-prop-types",
-                "stars": 887,
+                "stars": 886,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -485,7 +485,7 @@
                 "open_issues": 7,
                 "owner": "storybookjs",
                 "repo": "babel-plugin-react-docgen",
-                "stars": 163,
+                "stars": 164,
                 "topics": [
                   "babel-plugin",
                   "doc-gen",
@@ -696,8 +696,8 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-11T09:27:15Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-12T14:50:53Z",
+                "open_issues": 3,
                 "owner": "formatjs",
                 "repo": "formatjs",
                 "stars": 14740,
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T05:14:53Z",
-            "open_issues": 785,
+            "last_commit": "2026-10-12T07:07:52Z",
+            "open_issues": 783,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44135,
+            "stars": 44132,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:33:36.852Z",
+    "last_updated": "2026-10-12T16:09:30.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
