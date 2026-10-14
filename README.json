@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "facebook",
                 "repo": "idx",
-                "stars": 1686,
+                "stars": 1687,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -42,7 +42,7 @@
                 "open_issues": 6,
                 "owner": "MatAtBread",
                 "repo": "fast-async",
-                "stars": 597,
+                "stars": 598,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -166,7 +166,7 @@
                 "open_issues": 109,
                 "owner": "tleunen",
                 "repo": "babel-plugin-module-resolver",
-                "stars": 3467,
+                "stars": 3468,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -365,7 +365,7 @@
                 "open_issues": 20,
                 "owner": "jamiebuilds",
                 "repo": "babel-react-optimize",
-                "stars": 1663,
+                "stars": 1664,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -386,7 +386,7 @@
                 "open_issues": 10,
                 "owner": "gaearon",
                 "repo": "babel-plugin-react-transform",
-                "stars": 1070,
+                "stars": 1071,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -407,7 +407,7 @@
                 "open_issues": 17,
                 "owner": "oliviertassinari",
                 "repo": "babel-plugin-transform-react-remove-prop-types",
-                "stars": 887,
+                "stars": 888,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -513,7 +513,7 @@
                 "open_issues": 0,
                 "owner": "vslinko",
                 "repo": "babel-plugin-react-require",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -696,8 +696,8 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-13T09:15:28Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-14T09:33:54Z",
+                "open_issues": 4,
                 "owner": "formatjs",
                 "repo": "formatjs",
                 "stars": 14740,
@@ -792,7 +792,7 @@
                 "open_issues": 30,
                 "owner": "gcanti",
                 "repo": "babel-plugin-tcomb",
-                "stars": 477,
+                "stars": 478,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -869,7 +869,7 @@
                 "open_issues": 57,
                 "owner": "speedskater",
                 "repo": "babel-plugin-rewire",
-                "stars": 834,
+                "stars": 835,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -890,7 +890,7 @@
                 "open_issues": 70,
                 "owner": "istanbuljs",
                 "repo": "babel-plugin-istanbul",
-                "stars": 659,
+                "stars": 660,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -988,7 +988,7 @@
                 "open_issues": 4,
                 "owner": "codemix",
                 "repo": "babel-plugin-closure-elimination",
-                "stars": 364,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1358,7 +1358,7 @@
                 "open_issues": 3,
                 "owner": "codemix",
                 "repo": "babel-plugin-contracts",
-                "stars": 266,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1543,7 +1543,7 @@
             "open_issues": 20,
             "owner": "jamiebuilds",
             "repo": "babel-react-optimize",
-            "stars": 1663,
+            "stars": 1664,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T14:36:08.404Z",
+    "last_updated": "2026-10-14T12:25:37.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
