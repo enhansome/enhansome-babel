@@ -166,7 +166,7 @@
                 "open_issues": 109,
                 "owner": "tleunen",
                 "repo": "babel-plugin-module-resolver",
-                "stars": 3468,
+                "stars": 3467,
                 "topics": [
                   "babel",
                   "babel-plugin",
@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T07:07:52Z",
+                "last_commit": "2026-10-14T22:28:20Z",
                 "open_issues": 783,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44134,
+                "stars": 44049,
                 "topics": [
                   "ast",
                   "babel",
@@ -434,7 +434,7 @@
                 "open_issues": 1,
                 "owner": "Nozbe",
                 "repo": "zacs",
-                "stars": 430,
+                "stars": 429,
                 "topics": [
                   "hacktoberfest",
                   "react",
@@ -696,7 +696,7 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-14T09:33:54Z",
+                "last_commit": "2026-10-15T10:05:47Z",
                 "open_issues": 4,
                 "owner": "formatjs",
                 "repo": "formatjs",
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T07:07:52Z",
+            "last_commit": "2026-10-14T22:28:20Z",
             "open_issues": 783,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44134,
+            "stars": 44049,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T12:25:37.156Z",
+    "last_updated": "2026-10-15T12:09:20.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
