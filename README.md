@@ -39,7 +39,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### React
 
-* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,049 | 🐛 783 | 🌐 TypeScript | 📅 2026-10-14 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,049 | 🐛 783 | 🌐 TypeScript | 📅 2026-10-14
+* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,053 | 🐛 784 | 🌐 TypeScript | 📅 2026-10-16 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,053 | 🐛 784 | 🌐 TypeScript | 📅 2026-10-16
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,664 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React Transform](https://github.com/gaearon/babel-plugin-react-transform) ⚠️ Archived - Instrument React components with custom transforms.
 * [transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) ⭐ 888 | 🐛 17 | 🌐 JavaScript | 📅 2021-11-28 - Removes unnecessary React propTypes from the production build.
@@ -59,7 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Internationalization
 
-* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,740 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-15 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,740 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-15.
+* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,741 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-16 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,741 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-16.
 * [localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-21 - Modify static jsx text and string attributes with function call. 🔧
 * [c-3po](https://c-3po.js.org) - Localization tool based on es6 template literals.
 
@@ -93,7 +93,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 * [trace](https://github.com/codemix/babel-plugin-trace) ⭐ 64 | 🐛 1 | 🌐 JavaScript | 📅 2018-05-30 - Syntax shortcuts for console logging.
 * [function-composition](https://github.com/haskellcamargo/babel-plugin-function-composition) ⭐ 63 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-10 - Function piping and composition via `&` operator, for example, `toUpper & console.log`.
 * [meaningful-logs](https://github.com/furstenheim/babel-plugin-meaningful-logs) ⭐ 50 | 🐛 7 | 🌐 JavaScript | 📅 2023-01-03 - Adds file name and line number of caller to `console.log()` calls.
-* [auto-await](https://github.com/ziolko/babel-plugin-auto-await) ⭐ 27 | 🐛 1 | 🌐 JavaScript | 📅 2019-02-25 - Automatically `await` every `Promise` in `async` functions.
+* [auto-await](https://github.com/ziolko/babel-plugin-auto-await) ⭐ 26 | 🐛 1 | 🌐 JavaScript | 📅 2019-02-25 - Automatically `await` every `Promise` in `async` functions.
 * [implicit-return](https://github.com/miraks/babel-plugin-implicit-return) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2019-02-08 - Transforms last statement in a function block to a return statement.
 * [implicit-function](https://github.com/haskellcamargo/babel-plugin-implicit-function) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2017-09-04 - Implicit functions via `~` operator, transforming, for example, `~x` in `() => x`.
 * [offside-js](https://github.com/shanewholloway/babel-plugin-offside-js) ⚠️ Archived - Coffeescript-like indented block syntax hack. 🔧🚧
@@ -101,7 +101,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Alternative Programming Paradigms
 
-* [babel-macros](https://github.com/kentcdodds/babel-macros) ⭐ 2,632 | 🐛 12 | 🌐 JavaScript | 📅 2023-05-30 - Enables zero-config, importable babel plugins.
+* [babel-macros](https://github.com/kentcdodds/babel-macros) ⭐ 2,631 | 🐛 12 | 🌐 JavaScript | 📅 2023-05-30 - Enables zero-config, importable babel plugins.
 * [contracts](https://github.com/codemix/babel-plugin-contracts) ⭐ 267 | 🐛 3 | 🌐 JavaScript | 📅 2019-04-29 - Design by Contract; Includes preconditions, postconditions, and invariant conditions.
 * [macros](https://github.com/codemix/babel-plugin-macros) ⭐ 260 | 🐛 0 | 🌐 JavaScript | 📅 2016-03-12 - Hygienic, non-syntactic macros. 🔧
 * [partial-application](https://github.com/citycide/babel-plugin-partial-application) ⚠️ Archived - Scala/Kotlin-esque partial application syntax for JavaScript (using `_`). 🔧
@@ -111,7 +111,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
-* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,049 | 🐛 783 | 🌐 TypeScript | 📅 2026-10-14 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
+* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,053 | 🐛 784 | 🌐 TypeScript | 📅 2026-10-16 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,664 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
 
@@ -127,4 +127,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

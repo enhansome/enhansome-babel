@@ -191,7 +191,7 @@
                 "open_issues": 25,
                 "owner": "lodash",
                 "repo": "babel-plugin-lodash",
-                "stars": 1945,
+                "stars": 1944,
                 "topics": [
                   "babel",
                   "lodash"
@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T22:28:20Z",
-                "open_issues": 783,
+                "last_commit": "2026-10-16T08:59:23Z",
+                "open_issues": 784,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44049,
+                "stars": 44053,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,11 +696,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-15T10:05:47Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-16T09:47:51Z",
+                "open_issues": 2,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14740,
+                "stars": 14741,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -1221,7 +1221,7 @@
                 "open_issues": 1,
                 "owner": "ziolko",
                 "repo": "babel-plugin-auto-await",
-                "stars": 27,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1333,7 +1333,7 @@
                 "open_issues": 12,
                 "owner": "kentcdodds",
                 "repo": "babel-plugin-macros",
-                "stars": 2632,
+                "stars": 2631,
                 "topics": [
                   "babel",
                   "babel-macros",
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T22:28:20Z",
-            "open_issues": 783,
+            "last_commit": "2026-10-16T08:59:23Z",
+            "open_issues": 784,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44049,
+            "stars": 44053,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:09:20.755Z",
+    "last_updated": "2026-10-16T11:55:46.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
