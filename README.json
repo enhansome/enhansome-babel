@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T13:08:01Z",
-                "open_issues": 785,
+                "last_commit": "2026-10-20T11:01:49Z",
+                "open_issues": 807,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44057,
+                "stars": 44062,
                 "topics": [
                   "ast",
                   "babel",
@@ -386,7 +386,7 @@
                 "open_issues": 10,
                 "owner": "gaearon",
                 "repo": "babel-plugin-react-transform",
-                "stars": 1071,
+                "stars": 1070,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -696,11 +696,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-19T06:15:47Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-19T23:10:44Z",
+                "open_issues": 3,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14741,
+                "stars": 14744,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T13:08:01Z",
-            "open_issues": 785,
+            "last_commit": "2026-10-20T11:01:49Z",
+            "open_issues": 807,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44057,
+            "stars": 44062,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T13:59:20.512Z",
+    "last_updated": "2026-10-20T12:15:13.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
