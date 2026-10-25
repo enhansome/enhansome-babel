@@ -39,7 +39,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### React
 
-* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,045 | 🐛 809 | 🌐 TypeScript | 📅 2026-10-23 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,045 | 🐛 809 | 🌐 TypeScript | 📅 2026-10-23
+* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,048 | 🐛 811 | 🌐 TypeScript | 📅 2026-10-24 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,048 | 🐛 811 | 🌐 TypeScript | 📅 2026-10-24
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,663 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React Transform](https://github.com/gaearon/babel-plugin-react-transform) ⚠️ Archived - Instrument React components with custom transforms.
 * [transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) ⭐ 888 | 🐛 17 | 🌐 JavaScript | 📅 2021-11-28 - Removes unnecessary React propTypes from the production build.
@@ -59,7 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Internationalization
 
-* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,745 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-24 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,745 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-24.
+* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,746 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-25 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,746 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-25.
 * [localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-21 - Modify static jsx text and string attributes with function call. 🔧
 * [c-3po](https://c-3po.js.org) - Localization tool based on es6 template literals.
 
@@ -101,7 +101,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Alternative Programming Paradigms
 
-* [babel-macros](https://github.com/kentcdodds/babel-macros) ⭐ 2,631 | 🐛 12 | 🌐 JavaScript | 📅 2023-05-30 - Enables zero-config, importable babel plugins.
+* [babel-macros](https://github.com/kentcdodds/babel-macros) ⭐ 2,629 | 🐛 12 | 🌐 JavaScript | 📅 2023-05-30 - Enables zero-config, importable babel plugins.
 * [contracts](https://github.com/codemix/babel-plugin-contracts) ⭐ 267 | 🐛 3 | 🌐 JavaScript | 📅 2019-04-29 - Design by Contract; Includes preconditions, postconditions, and invariant conditions.
 * [macros](https://github.com/codemix/babel-plugin-macros) ⭐ 260 | 🐛 0 | 🌐 JavaScript | 📅 2016-03-12 - Hygienic, non-syntactic macros. 🔧
 * [partial-application](https://github.com/citycide/babel-plugin-partial-application) ⚠️ Archived - Scala/Kotlin-esque partial application syntax for JavaScript (using `_`). 🔧
@@ -111,7 +111,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
-* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,045 | 🐛 809 | 🌐 TypeScript | 📅 2026-10-23 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
+* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,048 | 🐛 811 | 🌐 TypeScript | 📅 2026-10-24 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,663 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
 
@@ -127,4 +127,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

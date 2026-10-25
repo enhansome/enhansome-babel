@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T22:44:47Z",
-                "open_issues": 809,
+                "last_commit": "2026-10-24T22:21:51Z",
+                "open_issues": 811,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44045,
+                "stars": 44048,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,11 +696,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-24T08:47:48Z",
+                "last_commit": "2026-10-25T04:24:01Z",
                 "open_issues": 9,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14745,
+                "stars": 14746,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -1333,7 +1333,7 @@
                 "open_issues": 12,
                 "owner": "kentcdodds",
                 "repo": "babel-plugin-macros",
-                "stars": 2631,
+                "stars": 2629,
                 "topics": [
                   "babel",
                   "babel-macros",
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T22:44:47Z",
-            "open_issues": 809,
+            "last_commit": "2026-10-24T22:21:51Z",
+            "open_issues": 811,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44045,
+            "stars": 44048,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:39:33.527Z",
+    "last_updated": "2026-10-25T12:02:46.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
