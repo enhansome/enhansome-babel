@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T22:21:51Z",
+                "last_commit": "2026-10-26T11:44:53Z",
                 "open_issues": 811,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44048,
+                "stars": 44050,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,8 +696,8 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-25T04:24:01Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-26T13:29:25Z",
+                "open_issues": 11,
                 "owner": "formatjs",
                 "repo": "formatjs",
                 "stars": 14746,
@@ -890,7 +890,7 @@
                 "open_issues": 70,
                 "owner": "istanbuljs",
                 "repo": "babel-plugin-istanbul",
-                "stars": 660,
+                "stars": 659,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T22:21:51Z",
+            "last_commit": "2026-10-26T11:44:53Z",
             "open_issues": 811,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44048,
+            "stars": 44050,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T12:02:46.718Z",
+    "last_updated": "2026-10-26T13:36:03.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
@@ -1649,7 +1649,7 @@
       "open_issues": 4,
       "owner": "babel",
       "repo": "awesome-babel",
-      "stars": 876,
+      "stars": 877,
       "topics": [
         "awesome",
         "awesome-list",
