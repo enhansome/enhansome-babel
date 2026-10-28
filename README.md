@@ -39,7 +39,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### React
 
-* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,051 | 🐛 813 | 🌐 TypeScript | 📅 2026-10-27 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,051 | 🐛 813 | 🌐 TypeScript | 📅 2026-10-27
+* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,053 | 🐛 779 | 🌐 TypeScript | 📅 2026-10-28 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,053 | 🐛 779 | 🌐 TypeScript | 📅 2026-10-28
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,663 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React Transform](https://github.com/gaearon/babel-plugin-react-transform) ⚠️ Archived - Instrument React components with custom transforms.
 * [transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) ⭐ 888 | 🐛 17 | 🌐 JavaScript | 📅 2021-11-28 - Removes unnecessary React propTypes from the production build.
@@ -48,7 +48,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 * [react-docgen](https://github.com/kadirahq/babel-plugin-react-docgen) ⭐ 164 | 🐛 7 | 🌐 JavaScript | 📅 2024-11-26 - Makes propTypes comments accessible at runtime for use with documentation generators.
 * [react-require](https://github.com/vslinko/babel-plugin-react-require) ⚠️ Archived - Adds React import declaration if file contains JSX tags.
 * [babel-plugin-react-directive](https://github.com/evolify/babel-plugin-react-directive) ⭐ 30 | 🐛 1 | 🌐 TypeScript | 📅 2023-09-06 - Use directive in React, for example, you can use `r-if`、`r-for` in jsx just as `v-if`、`v-for` in Vue.
-* [babel-plugin-transform-react-class-to-function](https://github.com/remcohaszing/babel-plugin-transform-react-class-to-function) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2021-11-06 - Transforms React class components into a function, if possible.
+* [babel-plugin-transform-react-class-to-function](https://github.com/remcohaszing/babel-plugin-transform-react-class-to-function) ⭐ 23 | 🐛 0 | 🌐 JavaScript | 📅 2021-11-06 - Transforms React class components into a function, if possible.
 * [react-hyperscript](https://github.com/roman01la/babel-plugin-react-hyperscript) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2017-07-28 - HyperScript syntax for React components without runtime overhead.
 * [react-hiccup](https://github.com/callwait/babel-plugin-react-hiccup) ⭐ 17 | 🐛 11 | 🌐 JavaScript | 📅 2023-03-04 - Hiccup syntax for React components.
 * [babel-plugin-framer-x](https://github.com/eschaefer/babel-plugin-framer-x) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2018-10-08 - Removes Framer X markup from your components. Lets you use Framer X components in a Storybook or real application.
@@ -59,7 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Internationalization
 
-* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,748 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-27 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,748 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-27.
+* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,751 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-28 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,751 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-28.
 * [localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-21 - Modify static jsx text and string attributes with function call. 🔧
 * [c-3po](https://c-3po.js.org) - Localization tool based on es6 template literals.
 
@@ -74,7 +74,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 * [rewire](https://github.com/speedskater/babel-plugin-rewire) ⭐ 835 | 🐛 57 | 🌐 JavaScript | 📅 2023-08-17 - Adds the ability to rewire module dependencies. This enables to mock modules for testing purposes.
 * [istanbul](https://github.com/istanbuljs/babel-plugin-istanbul) ⭐ 659 | 🐛 70 | 🌐 JavaScript | 📅 2026-07-20 - Instruments your code with Istanbul coverage.
-* [espower](https://github.com/power-assert-js/babel-plugin-espower) ⭐ 93 | 🐛 9 | 🌐 JavaScript | 📅 2023-01-03 - Annotates call sites for descriptive messages when using [power-assert](https://github.com/power-assert-js/power-assert) ⭐ 2,805 | 🐛 43 | 🌐 JavaScript | 📅 2023-01-07.
+* [espower](https://github.com/power-assert-js/babel-plugin-espower) ⭐ 93 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-03 - Annotates call sites for descriptive messages when using [power-assert](https://github.com/power-assert-js/power-assert) ⭐ 2,805 | 🐛 43 | 🌐 JavaScript | 📅 2023-01-07.
 
 ### Optimization
 
@@ -111,7 +111,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
-* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,051 | 🐛 813 | 🌐 TypeScript | 📅 2026-10-27 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
+* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,053 | 🐛 779 | 🌐 TypeScript | 📅 2026-10-28 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,663 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
 
@@ -127,4 +127,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

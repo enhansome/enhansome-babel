@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T01:09:11Z",
-                "open_issues": 813,
+                "last_commit": "2026-10-28T12:32:46Z",
+                "open_issues": 779,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44051,
+                "stars": 44053,
                 "topics": [
                   "ast",
                   "babel",
@@ -559,7 +559,7 @@
                 "open_issues": 0,
                 "owner": "remcohaszing",
                 "repo": "babel-plugin-transform-react-class-to-function",
-                "stars": 24,
+                "stars": 23,
                 "topics": [
                   "babel",
                   "react"
@@ -696,11 +696,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-27T12:02:55Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-28T13:33:39Z",
+                "open_issues": 12,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14748,
+                "stars": 14751,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -908,7 +908,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2023-01-03T15:16:04Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "power-assert-js",
                 "repo": "babel-plugin-espower",
                 "stars": 93,
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T01:09:11Z",
-            "open_issues": 813,
+            "last_commit": "2026-10-28T12:32:46Z",
+            "open_issues": 779,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44051,
+            "stars": 44053,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T12:41:46.434Z",
+    "last_updated": "2026-10-28T13:33:55.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
