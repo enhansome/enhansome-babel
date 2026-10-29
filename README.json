@@ -19,7 +19,7 @@
                 "license": "MIT",
                 "last_commit": "2024-01-10T18:53:12Z",
                 "open_issues": 0,
-                "owner": "facebook",
+                "owner": "meta",
                 "repo": "idx",
                 "stars": 1687,
                 "topics": []
@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T12:32:46Z",
-                "open_issues": 779,
+                "last_commit": "2026-10-29T13:41:47Z",
+                "open_issues": 758,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44053,
+                "stars": 44052,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,11 +696,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-28T13:33:39Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-29T12:46:40Z",
+                "open_issues": 11,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14751,
+                "stars": 14752,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T12:32:46Z",
-            "open_issues": 779,
+            "last_commit": "2026-10-29T13:41:47Z",
+            "open_issues": 758,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44053,
+            "stars": 44052,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T13:33:55.854Z",
+    "last_updated": "2026-10-29T13:44:47.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
