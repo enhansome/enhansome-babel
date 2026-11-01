@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T12:37:19Z",
-                "open_issues": 742,
+                "last_commit": "2026-11-01T02:58:32Z",
+                "open_issues": 743,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44054,
+                "stars": 44053,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,11 +696,11 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-31T12:10:32Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-01T13:27:21Z",
+                "open_issues": 3,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14753,
+                "stars": 14754,
                 "topics": [
                   "formatjs",
                   "globalization",
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T12:37:19Z",
-            "open_issues": 742,
+            "last_commit": "2026-11-01T02:58:32Z",
+            "open_issues": 743,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44054,
+            "stars": 44053,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T13:06:39.363Z",
+    "last_updated": "2026-11-01T13:48:21.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
