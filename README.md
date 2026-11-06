@@ -19,7 +19,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### General Plugins
 
 * [idx](https://github.com/facebookincubator/idx) ⚠️ Archived - library + babel plugin for a existential function.
-* [fast-async](https://github.com/MatAtBread/fast-async) ⭐ 598 | 🐛 6 | 🌐 JavaScript | 📅 2018-10-08 - Uses nodent to compile async/await to fast Promise output.
+* [fast-async](https://github.com/MatAtBread/fast-async) ⭐ 597 | 🐛 6 | 🌐 JavaScript | 📅 2018-10-08 - Uses nodent to compile async/await to fast Promise output.
 * [transform-builtin-extend](https://github.com/loganfsmyth/babel-plugin-transform-builtin-extend) ⭐ 148 | 🐛 13 | 🌐 JavaScript | 📅 2022-01-18 - Enable extending builtin types like `Error` and `Array`, which require special treatment and require static analysis to detect.
 * [feature-flags](https://github.com/ember-cli/babel-plugin-feature-flags) ⭐ 56 | 🐛 6 | 🌐 JavaScript | 📅 2021-07-28 - Helper for managing application feature flags.
 * [console-source](https://github.com/peteringram0/babel-plugin-console-source) ⭐ 38 | 🐛 2 | 🌐 JavaScript | 📅 2020-10-31 - Prepends the file name and line numbers for all console commands
@@ -39,8 +39,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### React
 
-* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,053 | 🐛 753 | 🌐 TypeScript | 📅 2026-11-05 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,053 | 🐛 753 | 🌐 TypeScript | 📅 2026-11-05
-* [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,664 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
+* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,053 | 🐛 756 | 🌐 TypeScript | 📅 2026-11-06 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,053 | 🐛 756 | 🌐 TypeScript | 📅 2026-11-06
+* [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,663 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React Transform](https://github.com/gaearon/babel-plugin-react-transform) ⚠️ Archived - Instrument React components with custom transforms.
 * [transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) ⭐ 888 | 🐛 17 | 🌐 JavaScript | 📅 2021-11-28 - Removes unnecessary React propTypes from the production build.
 * [zacs](https://github.com/nozbe/zacs) ⭐ 429 | 🐛 1 | 🌐 JavaScript | 📅 2023-08-28 - "styled components"-ish syntax without performance overhead
@@ -59,13 +59,13 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Internationalization
 
-* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,753 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-05 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,753 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-05.
+* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,753 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-06 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,753 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-06.
 * [localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-21 - Modify static jsx text and string attributes with function call. 🔧
 * [c-3po](https://c-3po.js.org) - Localization tool based on es6 template literals.
 
 ### Types
 
-* [flow-runtime](https://github.com/codemix/flow-runtime/tree/master/packages/babel-plugin-flow-runtime) ⭐ 796 | 🐛 107 | 🌐 JavaScript | 📅 2022-12-10 - Turns Flow annotations into runtime checks. Part of [Flow-Runtime](https://codemix.github.io/flow-runtime).
+* [flow-runtime](https://github.com/codemix/flow-runtime/tree/master/packages/babel-plugin-flow-runtime) ⭐ 796 | 🐛 108 | 🌐 JavaScript | 📅 2022-12-10 - Turns Flow annotations into runtime checks. Part of [Flow-Runtime](https://codemix.github.io/flow-runtime).
 * [tcomb](https://github.com/gcanti/babel-plugin-tcomb) ⚠️ Archived - Turns Flow annotations into typechecks with [tcomb](https://github.com/gcanti/tcomb) ⚠️ Archived.
 * [runtyper](https://github.com/vitalets/babel-plugin-runtyper) ⭐ 116 | 🐛 13 | 🌐 JavaScript | 📅 2022-12-07 - Detects type-mismatch operations in runtime without annotations.
 * [jsdoc-to-assert](https://github.com/azu/babel-plugin-jsdoc-to-assert) ⭐ 55 | 🐛 5 | 🌐 JavaScript | 📅 2019-11-06 - Turns JSDoc into runtime checks.
@@ -111,8 +111,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
-* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,053 | 🐛 753 | 🌐 TypeScript | 📅 2026-11-05 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
-* [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,664 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
+* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,053 | 🐛 756 | 🌐 TypeScript | 📅 2026-11-06 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
+* [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,663 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
 
 ## Tooling
@@ -127,4 +127,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
