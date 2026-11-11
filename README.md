@@ -31,7 +31,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 * [module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) ⭐ 3,467 | 🐛 110 | 🌐 JavaScript | 📅 2026-03-16 - Custom module resolver.
 * [lodash](https://github.com/lodash/babel-plugin-lodash) ⚠️ Archived - Cherry-picks Lodash modules so you don’t have to.
-* [root-import](https://github.com/entwicklerstube/babel-plugin-root-import) ⭐ 1,167 | 🐛 21 | 🌐 JavaScript | 📅 2022-12-03 - Import modules from the root with `require('~/foo')` syntax.
+* [root-import](https://github.com/entwicklerstube/babel-plugin-root-import) ⭐ 1,166 | 🐛 21 | 🌐 JavaScript | 📅 2022-12-03 - Import modules from the root with `require('~/foo')` syntax.
 * [ramda](https://github.com/megawac/babel-plugin-ramda) ⭐ 312 | 🐛 16 | 🌐 JavaScript | 📅 2023-03-01 - Cherry-picks Ramda modules so you don’t have to.
 * [webpack-alias](https://github.com/trayio/babel-plugin-webpack-alias) ⚠️ Archived - Allows you to use webpack aliases and most of webpack resolve features in Babel.
 * [hash-resolve](https://github.com/miketamis/babel-plugin-hash-resolve) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2020-04-28 - Allows you to use `require('#/path')` instead of `require('../../path')`, the number of `../` needed is worked out by the plugin
@@ -39,7 +39,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### React
 
-* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,055 | 🐛 763 | 🌐 TypeScript | 📅 2026-11-10 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,055 | 🐛 763 | 🌐 TypeScript | 📅 2026-11-10
+* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,057 | 🐛 756 | 🌐 TypeScript | 📅 2026-11-11 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,057 | 🐛 756 | 🌐 TypeScript | 📅 2026-11-11
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,663 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React Transform](https://github.com/gaearon/babel-plugin-react-transform) ⚠️ Archived - Instrument React components with custom transforms.
 * [transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) ⭐ 888 | 🐛 17 | 🌐 JavaScript | 📅 2021-11-28 - Removes unnecessary React propTypes from the production build.
@@ -59,13 +59,13 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Internationalization
 
-* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,752 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-10 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,752 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-10.
+* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,754 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-11 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,754 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-11.
 * [localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-21 - Modify static jsx text and string attributes with function call. 🔧
 * [c-3po](https://c-3po.js.org) - Localization tool based on es6 template literals.
 
 ### Types
 
-* [flow-runtime](https://github.com/codemix/flow-runtime/tree/master/packages/babel-plugin-flow-runtime) ⭐ 797 | 🐛 112 | 🌐 JavaScript | 📅 2022-12-10 - Turns Flow annotations into runtime checks. Part of [Flow-Runtime](https://codemix.github.io/flow-runtime).
+* [flow-runtime](https://github.com/codemix/flow-runtime/tree/master/packages/babel-plugin-flow-runtime) ⭐ 796 | 🐛 114 | 🌐 JavaScript | 📅 2022-12-10 - Turns Flow annotations into runtime checks. Part of [Flow-Runtime](https://codemix.github.io/flow-runtime).
 * [tcomb](https://github.com/gcanti/babel-plugin-tcomb) ⚠️ Archived - Turns Flow annotations into typechecks with [tcomb](https://github.com/gcanti/tcomb) ⚠️ Archived.
 * [runtyper](https://github.com/vitalets/babel-plugin-runtyper) ⭐ 116 | 🐛 13 | 🌐 JavaScript | 📅 2022-12-07 - Detects type-mismatch operations in runtime without annotations.
 * [jsdoc-to-assert](https://github.com/azu/babel-plugin-jsdoc-to-assert) ⭐ 55 | 🐛 5 | 🌐 JavaScript | 📅 2019-11-06 - Turns JSDoc into runtime checks.
@@ -111,7 +111,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
-* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,055 | 🐛 763 | 🌐 TypeScript | 📅 2026-11-10 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
+* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,057 | 🐛 756 | 🌐 TypeScript | 📅 2026-11-11 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,663 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
 
@@ -127,4 +127,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
