@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T01:43:35Z",
-                "open_issues": 752,
+                "last_commit": "2026-11-14T02:48:50Z",
+                "open_issues": 751,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44056,
+                "stars": 44059,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,8 +696,8 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-13T12:58:42Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-14T05:09:36Z",
+                "open_issues": 6,
                 "owner": "formatjs",
                 "repo": "formatjs",
                 "stars": 14753,
@@ -890,7 +890,7 @@
                 "open_issues": 70,
                 "owner": "istanbuljs",
                 "repo": "babel-plugin-istanbul",
-                "stars": 658,
+                "stars": 659,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T01:43:35Z",
-            "open_issues": 752,
+            "last_commit": "2026-11-14T02:48:50Z",
+            "open_issues": 751,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44056,
+            "stars": 44059,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T14:55:52.183Z",
+    "last_updated": "2026-11-14T13:48:45.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
