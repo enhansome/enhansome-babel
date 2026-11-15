@@ -191,7 +191,7 @@
                 "open_issues": 25,
                 "owner": "lodash",
                 "repo": "babel-plugin-lodash",
-                "stars": 1941,
+                "stars": 1942,
                 "topics": [
                   "babel",
                   "lodash"
@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-14T02:48:50Z",
-                "open_issues": 751,
+                "last_commit": "2026-11-14T23:15:21Z",
+                "open_issues": 756,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44059,
+                "stars": 44062,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,8 +696,8 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-14T05:09:36Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-15T13:53:32Z",
+                "open_issues": 26,
                 "owner": "formatjs",
                 "repo": "formatjs",
                 "stars": 14753,
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T02:48:50Z",
-            "open_issues": 751,
+            "last_commit": "2026-11-14T23:15:21Z",
+            "open_issues": 756,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44059,
+            "stars": 44062,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:48:45.741Z",
+    "last_updated": "2026-11-15T14:19:59.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
