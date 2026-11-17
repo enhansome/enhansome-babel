@@ -241,7 +241,7 @@
                 "open_issues": 16,
                 "owner": "megawac",
                 "repo": "babel-plugin-ramda",
-                "stars": 312,
+                "stars": 313,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -332,8 +332,8 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T16:17:56Z",
-                "open_issues": 747,
+                "last_commit": "2026-11-17T15:30:30Z",
+                "open_issues": 751,
                 "owner": "babel",
                 "repo": "babel",
                 "stars": 44064,
@@ -696,8 +696,8 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-16T16:19:42Z",
-                "open_issues": 67,
+                "last_commit": "2026-11-17T15:22:25Z",
+                "open_issues": 6,
                 "owner": "formatjs",
                 "repo": "formatjs",
                 "stars": 14754,
@@ -890,7 +890,7 @@
                 "open_issues": 70,
                 "owner": "istanbuljs",
                 "repo": "babel-plugin-istanbul",
-                "stars": 659,
+                "stars": 660,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -939,7 +939,7 @@
                 "open_issues": 11,
                 "owner": "kentcdodds",
                 "repo": "babel-plugin-preval",
-                "stars": 1362,
+                "stars": 1363,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:36.091Z"
@@ -1510,8 +1510,8 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T16:17:56Z",
-            "open_issues": 747,
+            "last_commit": "2026-11-17T15:30:30Z",
+            "open_issues": 751,
             "owner": "babel",
             "repo": "babel",
             "stars": 44064,
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T16:27:55.097Z",
+    "last_updated": "2026-11-17T16:30:03.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",

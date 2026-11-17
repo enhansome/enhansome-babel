@@ -32,14 +32,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 * [module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) ⭐ 3,467 | 🐛 110 | 🌐 JavaScript | 📅 2026-03-16 - Custom module resolver.
 * [lodash](https://github.com/lodash/babel-plugin-lodash) ⚠️ Archived - Cherry-picks Lodash modules so you don’t have to.
 * [root-import](https://github.com/entwicklerstube/babel-plugin-root-import) ⭐ 1,166 | 🐛 21 | 🌐 JavaScript | 📅 2022-12-03 - Import modules from the root with `require('~/foo')` syntax.
-* [ramda](https://github.com/megawac/babel-plugin-ramda) ⭐ 312 | 🐛 16 | 🌐 JavaScript | 📅 2023-03-01 - Cherry-picks Ramda modules so you don’t have to.
+* [ramda](https://github.com/megawac/babel-plugin-ramda) ⭐ 313 | 🐛 16 | 🌐 JavaScript | 📅 2023-03-01 - Cherry-picks Ramda modules so you don’t have to.
 * [webpack-alias](https://github.com/trayio/babel-plugin-webpack-alias) ⚠️ Archived - Allows you to use webpack aliases and most of webpack resolve features in Babel.
 * [hash-resolve](https://github.com/miketamis/babel-plugin-hash-resolve) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2020-04-28 - Allows you to use `require('#/path')` instead of `require('../../path')`, the number of `../` needed is worked out by the plugin
 * [rewrite-module-path](https://github.com/zheeeng/babel-plugin-rewrite-module-path) ⭐ 3 | 🐛 4 | 🌐 TypeScript | 📅 2026-01-26 - Rewrite module resolving path.
 
 ### React
 
-* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,064 | 🐛 747 | 🌐 TypeScript | 📅 2026-11-16 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,064 | 🐛 747 | 🌐 TypeScript | 📅 2026-11-16
+* [transform-react-jsx-self](https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-self) ⭐ 44,064 | 🐛 751 | 🌐 TypeScript | 📅 2026-11-17 - Adds a `__self` property to JSX tags for debugging. Don't use in production. [More info](https://github.com/babel/babel/pull/3540) ⭐ 44,064 | 🐛 751 | 🌐 TypeScript | 📅 2026-11-17
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,663 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React Transform](https://github.com/gaearon/babel-plugin-react-transform) ⚠️ Archived - Instrument React components with custom transforms.
 * [transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) ⭐ 888 | 🐛 17 | 🌐 JavaScript | 📅 2021-11-28 - Removes unnecessary React propTypes from the production build.
@@ -59,7 +59,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Internationalization
 
-* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,754 | 🐛 67 | 🌐 TypeScript | 📅 2026-11-16 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,754 | 🐛 67 | 🌐 TypeScript | 📅 2026-11-16.
+* [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,754 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-17 - Extracts string messages for translation from modules that use [React Intl](https://github.com/yahoo/react-intl) ⭐ 14,754 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-17.
 * [localize](https://github.com/amerani/babel-plugin-localize) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2018-07-21 - Modify static jsx text and string attributes with function call. 🔧
 * [c-3po](https://c-3po.js.org) - Localization tool based on es6 template literals.
 
@@ -73,12 +73,12 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### Testing
 
 * [rewire](https://github.com/speedskater/babel-plugin-rewire) ⭐ 835 | 🐛 57 | 🌐 JavaScript | 📅 2023-08-17 - Adds the ability to rewire module dependencies. This enables to mock modules for testing purposes.
-* [istanbul](https://github.com/istanbuljs/babel-plugin-istanbul) ⭐ 659 | 🐛 70 | 🌐 JavaScript | 📅 2026-07-20 - Instruments your code with Istanbul coverage.
+* [istanbul](https://github.com/istanbuljs/babel-plugin-istanbul) ⭐ 660 | 🐛 70 | 🌐 JavaScript | 📅 2026-07-20 - Instruments your code with Istanbul coverage.
 * [espower](https://github.com/power-assert-js/babel-plugin-espower) ⭐ 93 | 🐛 8 | 🌐 JavaScript | 📅 2023-01-03 - Annotates call sites for descriptive messages when using [power-assert](https://github.com/power-assert-js/power-assert) ⭐ 2,807 | 🐛 43 | 🌐 JavaScript | 📅 2023-01-07.
 
 ### Optimization
 
-* [preval](https://github.com/kentcdodds/babel-plugin-preval) ⭐ 1,362 | 🐛 11 | 🌐 TypeScript | 📅 2022-02-02 - Pre-evaluate code at build-time.
+* [preval](https://github.com/kentcdodds/babel-plugin-preval) ⭐ 1,363 | 🐛 11 | 🌐 TypeScript | 📅 2022-02-02 - Pre-evaluate code at build-time.
 * [faster.js](https://github.com/vzhou842/faster.js) ⭐ 439 | 🐛 6 | 🌐 JavaScript | 📅 2022-12-30 - Transforms native `Array` methods into faster equivalents. 🔧
 * [closure-elimination](https://github.com/codemix/babel-plugin-closure-elimination) ⭐ 365 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-11 - Transforms closures into separate functions.
 * [object-to-json-parse](https://github.com/nd-02110114/babel-plugin-object-to-json-parse) ⚠️ Archived - Converts from object literal to `JSON.parse`.
@@ -111,7 +111,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Presets
 
-* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,064 | 🐛 747 | 🌐 TypeScript | 📅 2026-11-16 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
+* [env](https://github.com/babel/babel/tree/master/packages/babel-preset-env) ⭐ 44,064 | 🐛 751 | 🌐 TypeScript | 📅 2026-11-17 - **The recommended preset** which includes transforms based on the specified environment (browsers, node, electron, etc).
 * [React Optimize](https://github.com/thejameskyle/babel-react-optimize) ⭐ 1,663 | 🐛 20 | 🌐 JavaScript | 📅 2017-04-06 - A Babel preset and plugins for optimizing React code.
 * [React](https://www.npmjs.com/package/babel-preset-react) - Babel preset for all React plugins.
 
@@ -127,4 +127,4 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
