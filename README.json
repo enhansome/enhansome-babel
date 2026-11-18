@@ -332,11 +332,11 @@
                 "id": 24560307,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T15:30:30Z",
+                "last_commit": "2026-11-18T15:50:08Z",
                 "open_issues": 751,
                 "owner": "babel",
                 "repo": "babel",
-                "stars": 44064,
+                "stars": 44066,
                 "topics": [
                   "ast",
                   "babel",
@@ -696,8 +696,8 @@
                 "id": 19117456,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-17T15:22:25Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-18T12:13:13Z",
+                "open_issues": 7,
                 "owner": "formatjs",
                 "repo": "formatjs",
                 "stars": 14754,
@@ -1333,7 +1333,7 @@
                 "open_issues": 12,
                 "owner": "kentcdodds",
                 "repo": "babel-plugin-macros",
-                "stars": 2629,
+                "stars": 2628,
                 "topics": [
                   "babel",
                   "babel-macros",
@@ -1510,11 +1510,11 @@
             "id": 24560307,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T15:30:30Z",
+            "last_commit": "2026-11-18T15:50:08Z",
             "open_issues": 751,
             "owner": "babel",
             "repo": "babel",
-            "stars": 44064,
+            "stars": 44066,
             "topics": [
               "ast",
               "babel",
@@ -1637,7 +1637,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T16:30:03.867Z",
+    "last_updated": "2026-11-18T15:59:01.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎A list of awesome Babel plugins, presets, etc.",
